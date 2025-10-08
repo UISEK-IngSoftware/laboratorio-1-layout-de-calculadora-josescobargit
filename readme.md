@@ -5,10 +5,9 @@
 
 **Completa la siguiente información antes de comenzar:**
 
-- **Nombre completo**: _____________________________
-- **Carrera**: _____________________________
-- **Fecha de entrega**: _____________________________
-
+- **Nombre completo**: José Escobar
+- **Carrera**: Ingeniería Informática
+- **Fecha de entrega**:
 ---
 
 ## Objetivo
